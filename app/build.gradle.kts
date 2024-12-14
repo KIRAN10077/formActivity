@@ -4,6 +4,10 @@ plugins {
 }
 
 android {
+
+    buildFeatures{               //compulsoryyyyyyy
+        viewBinding = true
+    }
     namespace = "com.example.newproject"
     compileSdk = 35
 

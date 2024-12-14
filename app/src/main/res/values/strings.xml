@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">newproject</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>UK</item>
+    </string-array>
 </resources>
